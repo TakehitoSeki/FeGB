@@ -2,6 +2,7 @@
 These files are the structural data of the steel grain boundaries obtained theoretically in the following paper:
 
 T. Seki et al., "Incommensurate grain-boundary atomic structure", Nature Communications (2023).
+https://doi.org/10.1038/s41467-023-43536-0
 
 The data are written in the VASP format.
 The a-axis corresponds to [110] axis of the bcc structure.
